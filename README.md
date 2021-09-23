@@ -1,2 +1,2 @@
 # Directory Format
-(Contest round #) / (Problem symbol) / (code.cpp) 
+(Contest round #) / (Problem symbol) / (Code.cpp) 
