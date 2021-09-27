@@ -1,4 +1,4 @@
-#Codeforces Solutions
+# Codeforces Solutions
 Some of my C++ implementations for Codeforces problems
 
 # Directory Format
