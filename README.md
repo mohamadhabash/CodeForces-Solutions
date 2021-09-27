@@ -2,4 +2,4 @@
 Some of my C++ implementations for Codeforces problems
 
 ### Directory Format
-(Contest round #) / (Problem symbol) / (Code.cpp) 
+Contest round # / Problem symbol / Code.cpp
